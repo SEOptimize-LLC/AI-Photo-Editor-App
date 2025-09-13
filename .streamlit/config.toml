@@ -1,0 +1,24 @@
+[theme]
+# Dark theme colors matching the app design
+primaryColor = "#5865F2"
+backgroundColor = "#1a1a1a"
+secondaryBackgroundColor = "#242424"
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[server]
+# Max file size for uploads (in MB)
+maxUploadSize = 200
+# Enable CORS protection
+enableCORS = true
+# Enable XSRF protection
+enableXsrfProtection = true
+
+[browser]
+# Gather usage stats
+gatherUsageStats = false
+
+[runner]
+# Magic commands
+magicEnabled = true
+#
